@@ -15,4 +15,6 @@
     object-fit: cover;
   }
 
-  
+.card-body{
+  line-height: 1;
+}
